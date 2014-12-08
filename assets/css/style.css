@@ -281,8 +281,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /* About Wrap & Conf */
 #aboutwrap {
-	margin-top: 80px;
-	margin-bottom: 80px;
+	background-color: #5dc3b5;
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
 
 .name {
@@ -332,9 +333,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Portfolio Wrap Section */
 #portfoliowrap {
+	background-color: #5dc3b5;
 	display: block;
-	margin-top: 80px;
-	margin-bottom: 80px;
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
 
 #portfoliowrap h1 {
