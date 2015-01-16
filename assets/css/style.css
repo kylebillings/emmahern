@@ -335,7 +335,7 @@ h1, h2, h3, h4, h5, h6 {
 	position: relative;
 }
 .about {
-	background-image: url(../img/doubleExposure.jpg);
+	background-image: url(../img/candle.jpg);
 }
 
 /* Portfolio Wrap Section */
@@ -382,7 +382,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio {
-	background-image: url(../img/candle.jpg);
+	background-image: url(../img/lyingDown.jpg);
 }
 
 /* Service Wrap */
@@ -458,7 +458,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact {
-	background-image: url(../img/lyingDown.jpg);
+	background-image: url(../img/doubleExposure.jpg);
 }
 
 #contactwrap label {
