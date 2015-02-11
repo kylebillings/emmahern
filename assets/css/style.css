@@ -476,7 +476,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#52b4b7', end
 #contactwrap small {
 	font-size: 13px;
 }
-
+#contactwrap a {
+	color: #fff;
+}
+#contactwrap a:hover {
+	color: #f4f4f4;
+}
+#contactwrap i {
+	font-size: 2em;
+}
 .contact {
 	background-image: url(../img/doubleExposure.jpg);
 }
